@@ -20,12 +20,12 @@ I'm **Rasha N. Alaswad**, a passionate **Mobile Developer** specializing in **Fl
         ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
         ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
         ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-        ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-        ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+        ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+        ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
         ### Mobile Development
         - **Cross-Platform**: Flutter (primary expertise)
-        - - **Native Development**: Android (Kotlin), iOS (Swift)
+        - - **Native Development**: Android (Kotlin, Java)
           - - **State Management**: Provider, Riverpod, Bloc, GetX
             - - **Backend Integration**: REST APIs, Firebase, GraphQL
               - - **Databases**: SQLite, Hive, Firebase Realtime Database, Firestore
@@ -58,76 +58,47 @@ I'm **Rasha N. Alaswad**, a passionate **Mobile Developer** specializing in **Fl
                              
                               - ---
 
-                              ## 📊 Featured Projects
+                              ## 🌟 What I'm Passionate About
 
-                              ### 🎵 Vaultly
-                              Secure password management application built with Flutter. Features biometric authentication, password generation, and encrypted storage.
-                              - **Tech Stack**: Flutter, Dart, Firebase
-                              - - **Repository**: [vaultly](https://github.com/rashaNAlaswad/vaultly)
-                               
-                                - ### 💾 Memory Dump
-                                - Advanced memory management and optimization tool for Android applications.
-                                - - **Tech Stack**: Dart, Android
-                                  - - **Repository**: [memory_dump](https://github.com/rashaNAlaswad/memory_dump)
-                                   
-                                    - ### 🚀 Flutter Laptop Store
-                                    - E-commerce application for laptop shopping with Flutter and clean architecture.
-                                    - - **Tech Stack**: Flutter, Dart, REST API
-                                      - - **Repository**: [flutter_laptop_store](https://github.com/rashaNAlaswad/flutter_laptop_store)
+                              - ✨ **Clean Code**: Writing maintainable, scalable, and well-documented code
+                              - - 🎨 **UI/UX**: Creating delightful user experiences with attention to detail
+                                - - 🚀 **Performance**: Optimizing apps for speed and efficiency
+                                  - - 🧪 **Testing**: Implementing unit tests, widget tests, and integration tests
+                                    - - 📚 **Learning**: Staying updated with the latest mobile development trends
+                                      - - 🤝 **Collaboration**: Working effectively with teams to deliver quality products
                                        
-                                        - ### 📱 Flutter Vocabulary Repository
-                                        - Educational app for learning vocabulary with interactive features.
-                                        - - **Tech Stack**: Flutter, Dart
-                                          - - **Repository**: [flutter_vocab_repo](https://github.com/rashaNAlaswad/flutter_vocab_repo)
-                                           
-                                            - ### 🍳 Recipe App
-                                            - Beautiful recipe browsing and saving application with modern UI/UX.
-                                            - - **Tech Stack**: Flutter, Firebase
-                                              - - **Repository**: [recipe_app](https://github.com/rashaNAlaswad/recipe_app)
-                                               
-                                                - ---
+                                        - ---
 
-                                                ## 🌟 What I'm Passionate About
+                                        ## 📈 GitHub Statistics
 
-                                                - ✨ **Clean Code**: Writing maintainable, scalable, and well-documented code
-                                                - - 🎨 **UI/UX**: Creating delightful user experiences with attention to detail
-                                                  - - 🚀 **Performance**: Optimizing apps for speed and efficiency
-                                                    - - 🧪 **Testing**: Implementing unit tests, widget tests, and integration tests
-                                                      - - 📚 **Learning**: Staying updated with the latest mobile development trends
-                                                        - - 🤝 **Collaboration**: Working effectively with teams to deliver quality products
-                                                         
-                                                          - ---
+                                        ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashaNAlaswad&show_icons=true&theme=dark&count_private=true)
+                                        ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashaNAlaswad&layout=compact&theme=dark)
 
-                                                          ## 📈 GitHub Statistics
+                                        ---
 
-                                                          ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashaNAlaswad&show_icons=true&theme=dark&count_private=true)
-                                                          ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashaNAlaswad&layout=compact&theme=dark)
+                                        ## 🎓 Currently Working On
 
-                                                          ---
+                                        - 🔨 Building advanced Flutter applications with complex state management
+                                        - - 📚 Exploring best practices in mobile architecture patterns
+                                          - - 🔐 Implementing secure authentication and data protection mechanisms
+                                            - - 🌐 Integrating APIs and real-time data synchronization
+                                             
+                                              - ---
 
-                                                          ## 🎓 Currently Working On
+                                              ## 💬 Let's Connect!
 
-                                                          - 🔨 Building advanced Flutter applications with complex state management
-                                                          - - 📚 Exploring best practices in mobile architecture patterns
-                                                            - - 🔐 Implementing secure authentication and data protection mechanisms
-                                                              - - 🌐 Integrating APIs and real-time data synchronization
-                                                               
-                                                                - ---
+                                              I'm always interested in collaborating on exciting mobile projects or discussing Flutter development best practices. Feel free to reach out:
 
-                                                                ## 💬 Let's Connect!
+                                              - **Email**: [rasha.n.alaswad@gmail.com](mailto:rasha.n.alaswad@gmail.com)
+                                              - - **LinkedIn**: [LinkedIn Profile](https://in.rasha-naser-alaswad)
+                                                - - **LeetCode**: [LeetCode Profile](https://leetcode.com/u/o4206ImzNj/)
+                                                 
+                                                  - ---
 
-                                                                I'm always interested in collaborating on exciting mobile projects or discussing Flutter development best practices. Feel free to reach out:
+                                                  ## 🙏 Thank You
 
-                                                                - **Email**: [Contact Info]
-                                                                - - **LinkedIn**: [LinkedIn Profile](https://in.rasha-naser-alaswad)
-                                                                  - - **LeetCode**: [LeetCode Profile](https://leetcode.com/u/o4206ImzNj/)
-                                                                   
-                                                                    - ---
+                                                  Thank you for visiting my profile! I'm excited about the opportunity to contribute to innovative mobile projects. Let's build something amazing together! 🚀
 
-                                                                    ## 🙏 Thank You
+                                                  ---
 
-                                                                    Thank you for visiting my profile! I'm excited about the opportunity to contribute to innovative mobile projects. Let's build something amazing together! 🚀
-
-                                                                    ---
-
-                                                                    *Last updated: April 23, 2026*
+                                                  *Last updated: April 23, 2026*
