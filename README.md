@@ -43,27 +43,16 @@ I'm **Rasha N. Alaswad**, a passionate **Mobile Developer** specializing in **Fl
 
                              
 - ### Version Control & Collaboration
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
                              
 - ### Development Tools
-- ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-- ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-                             
-
-## 🌟 What I'm Passionate About
-
-- ✨ **Clean Code**: Writing maintainable, scalable, and well-documented code
-- 🎨 **UI/UX**: Creating delightful user experiences with attention to detail
-- 🚀 **Performance**: Optimizing apps for speed and efficiency
-- 🧪 **Testing**: Implementing unit tests, widget tests, and integration tests
-- 📚 **Learning**: Staying updated with the latest mobile development trends
-- 🤝 **Collaboration**: Working effectively with teams to deliver quality products
-                                       
+  ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+                      
 
 ## 📈 GitHub Statistics
 
